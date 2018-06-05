@@ -1,0 +1,16 @@
+#logo {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-weight: 600;
+    color: #FBE1B6;
+}
+
+#imgl {
+    height: auto;
+    width: 50%;
+    padding-left: 6rem;
+}
+
+#smallT {
+    font-size: 4px;
+    font-style: oblique;
+}
